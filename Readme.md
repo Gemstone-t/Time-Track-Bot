@@ -30,11 +30,11 @@ python activity_moniter.py
 python app_moniter.py
 ```
 
-### Usage
+## Usage
 
 1. activity_moniter.py: This script tracks keyboard and mouse activity.
 2. app_moniter.py: This script monitors and logs application usage.
 
-### Thank You
+## Thank You
 
 Thank you for using this tracker application. If you have any questions or need further assistance, please reach out.
