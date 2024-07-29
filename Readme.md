@@ -20,6 +20,21 @@ pip install pynput sqlite3 psutil
 
 After installing the packages, you can run the trackers using the following commands:
 
+- **For the Keyboard and Mouse Activity Tracker:**
 ```bash
-pip install pynput sqlite3 psutil
+python activity_moniter.py
 ```
+
+- **For the Application Usage Tracker:**
+```bash
+python app_moniter.py
+```
+
+### Usage
+
+1. activity_moniter.py: This script tracks keyboard and mouse activity.
+2. app_moniter.py: This script monitors and logs application usage.
+
+### Thank You
+
+Thank you for using this tracker application. If you have any questions or need further assistance, please reach out.
