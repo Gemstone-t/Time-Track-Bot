@@ -16,7 +16,7 @@ Open your terminal or command prompt and run the following command to install th
 pip install pynput sqlite3 psutil
 ```
 
-### 2.Run the Trackers
+### 2. Run the Trackers
 
 After installing the packages, you can run the trackers using the following commands:
 
