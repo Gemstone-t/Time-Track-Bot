@@ -1,17 +1,25 @@
-These are active keyboard and mouse tracker bot and application tracker bot
+# Activity and Application Tracker
 
-How to install this:
+This project includes two types of trackers:
+- **Keyboard and Mouse Activity Tracker**
+- **Application Usage Tracker**
 
--- First, install python packages
+## Installation
 
-`pip install pynput sqlite3 psutil`
+To get started, you need to install the required Python packages.
 
-Then run the following command:
+### 1. Install Python Packages
 
-`python activity_moniter.py`
+Open your terminal or command prompt and run the following command to install the necessary packages:
 
-or
+```bash
+pip install pynput sqlite3 psutil
+```
 
-`python app_moniter.py`
+### 2.Run the Trackers
 
-Thank you
+After installing the packages, you can run the trackers using the following commands:
+
+```bash
+pip install pynput sqlite3 psutil
+```
